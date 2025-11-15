@@ -108,6 +108,8 @@ printf("%c",m[i]);
 
 
 # OUTPUT:
+<img width="1920" height="1080" alt="212222060192_E D" src="https://github.com/user-attachments/assets/6bc3352a-7356-4dd0-be36-e8a93315f0df" />
+
 
  
 
